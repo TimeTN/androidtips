@@ -1,0 +1,2 @@
+# androidtips
+non-support
